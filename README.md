@@ -11,7 +11,7 @@ Features
 - Batch processing
 
 Directory Structure
-
+```
 project/
 │
 ├── auto_annotate.py
@@ -20,3 +20,4 @@ project/
 ├── masks/
 ├── visualizations/
 └── weights/
+```
